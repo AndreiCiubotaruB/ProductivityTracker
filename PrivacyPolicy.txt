@@ -1,0 +1,6 @@
+The app locally stores only information that is manually added into it.
+This data is currently not stored on any servers, only locally.
+The data is used only to enable the usage of the app and any statistics/notifications it creates.
+All data can be removed by deleting the app, and locally stored files.
+Currently no permissions are required.
+Any modifications to this policy will be mentioned in further release messages.
